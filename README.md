@@ -15,7 +15,7 @@ I was interested looking through the log files of fail2ban seeing all the failed
     
 `pip install requirements.txt`
 
-Then since Basemap isn't included in pip, install Basemap from Matplotlib following the instructions [here]("https://matplotlib.org/basemap/users/installing.html").
+Then since Basemap isn't included in pip, install Basemap from Matplotlib following the instructions [here](https://matplotlib.org/basemap/users/installing.html).
 
 
 # Usage
@@ -35,7 +35,7 @@ For more infomration
 
 `python main.py --help`
 
-To Generate an IPStack API Key visit [ipstack.com]("https://ipstack.com/")
+To Generate an IPStack API Key visit [ipstack.com](https://ipstack.com/)
 
 # TODO's
-* Make the request get calls asynchronous
+* Make the request GET calls asynchronous
